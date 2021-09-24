@@ -10,7 +10,7 @@ ningalkku enne bere ebideyum use cheyyan kazhiyilla😜ennil ninnum onnum prethe
 ningalkku movie venonkil@cinemaheavens groupil poii movie choichittu vaa appol njn movie thara😜🤭 
     
     HELP_TEXT = """
-Aarada nee avan helpum choichu vannirikkunnu ninakku njan ippam helpa thara onnu podey😡🤭🤦‍♂️
+Aarada nee avan helpum choichu vannirikkunnu ninakku njan ippam helpa thara onnu podey🤭🤦‍♂️
 ninakkodanolla kandam dho avide poi odikko 🤭😂
 oru helpum nee ivadunnu pretheekshikkanda🤭😂🤦‍♂️
     
