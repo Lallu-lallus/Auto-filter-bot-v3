@@ -13,7 +13,7 @@ ningalkku movie venonkil@cinemaheavens groupil poii movie choichittu vaa appol n
 Aarada nee avan helpum choichu vannirikkunnu ninakku njan ippam helpa thara onnu podey🤭🤦‍♂️
 ninakkodanolla kandam dho avide poi odikko 🤭😂
 oru helpum nee ivadunnu pretheekshikkanda🤭😂🤦‍♂️
-"""
+"""<b> </b>
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
