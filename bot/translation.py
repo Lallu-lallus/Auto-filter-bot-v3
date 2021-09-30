@@ -7,12 +7,13 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 Hello brohh njn @cinemaheavens groupile movie share bot ahnu 😜
 ningalkku enne bere ebideyum use cheyyan kazhiyilla😜ennil ninnum onnum pretheekshikkanda🤭
-ningalkku movie venonkil@cinemaheavens groupil poii movie choichittu vaa appol njn movie thara😜🤭"""
+ningalkku movie venonkil@cinemaheavens groupil poii movie choichittu vaa appol njn movie thara😜🤭
     
     HELP_TEXT = """
 Aarada nee avan helpum choichu vannirikkunnu ninakku njan ippam helpa thara onnu podey🤭🤦‍♂️
 ninakkodanolla kandam dho avide poi odikko 🤭😂
-oru helpum nee ivadunnu pretheekshikkanda🤭😂🤦‍♂️"""
+oru helpum nee ivadunnu pretheekshikkanda🤭😂🤦‍♂️
+"""
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
