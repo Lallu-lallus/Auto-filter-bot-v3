@@ -139,7 +139,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>⚜️check links at@cinemagenix ⚜️Found</i> <code>{leng}</code> <i>Results For Your Request😜:</i> <code>{query}</code>"
+    text=f"<i>⚜️check links at@cinemagenix ⚜️Found</i> <code>{leng}</code> <i>𓂸𓂺シ︎ningal choicha movie enta database il nduu 𓁹 thaye kanunna ☟︎︎︎☟︎︎︎☟︎︎︎☟︎︎︎ button click cheythu start adichal mathiyakum movie kittum㋛︎❦︎❦︎❦︎❦︎♲︎︎︎♲︎︎︎♲︎︎︎♲︎︎︎♧︎︎︎♧︎︎︎♧︎︎︎☘︎:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -403,12 +403,12 @@ async def cb_set(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "Back 🔙", callback_data=f"config({chat_id})"
+                    "Back ☜︎︎︎☜︎︎︎", callback_data=f"config({chat_id})"
                 ),
             
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "Close ⚠︎", callback_data="close"
                 )
         ]
     ]
