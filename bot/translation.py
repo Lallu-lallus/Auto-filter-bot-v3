@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-Hello brohh njn @cinemagenix2021 groupile movie share bot ahnu 😜
+Hello brohh njn @cinemaheavens groupile movie share bot ahnu 😜
 ningalkku enne bere ebideyum use cheyyan kazhiyilla😜ennil ninnum onnum pretheekshikkanda🤭
 ningalkku movie venonkil@cinemaheavens groupil poii movie choichittu vaa appol njn movie thara😜🤭 
     
@@ -16,7 +16,7 @@ oru helpum nee ivadunnu pretheekshikkanda🤭😂🤦‍♂️"""
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/@Holmes_221_BS">@Holmes_221_BS</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/@The_bad_boyii">@Holmes_221_BS</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
